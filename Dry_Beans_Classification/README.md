@@ -48,4 +48,4 @@ RandomForestClassifier(RFC), Decision Tree (DT), XGBClassifier(XGB), Support Vec
 
 In this dataset some of the feature which are correalte too to each other. So it needs to drop the features which have correlation coefficient greater than 0.95.
 
-NOTE: Accuracy may varry upto 1%.
+
