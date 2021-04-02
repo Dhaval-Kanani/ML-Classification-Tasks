@@ -40,6 +40,10 @@ Seven different types of dry beans were used in this research, taking into accou
 
 17.)Class (Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira)
 
+**Dataset**
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/00602/DryBeanDataset.zip
+
 RandomForestClassifier(RFC), Decision Tree (DT), XGBClassifier(XGB), Support Vector Machine (SVM), Multilayer perceptron (MLP) classification models are implemented on this problem. Overall correct classification rates have been determined as 92.50%, 88.54%, 92.95%, 90.30% and 69.00% for RFC, DT, XGB, SVM and MLP respectively. The XGB classification model, which has the highest accuracy results, has classified the Barbunya, Bombay, Cali, Dermason, Horoz, Seker and Sira bean varieties with 94%%, 89%, 100%, 97%, 96%, 87% and 94%, respectively. 
 
 In this dataset some of the feature which are correalte too to each other. So it needs to drop the features which have correlation coefficient greater than 0.95.
