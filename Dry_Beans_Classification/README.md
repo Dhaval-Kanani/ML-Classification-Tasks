@@ -41,3 +41,5 @@ Seven different types of dry beans were used in this research, taking into accou
 17.)Class (Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira)
 
 RandomForestClassifier(RFC), Decision Tree (DT), XGBClassifier(XGB), Support Vector Machine (SVM), Multilayer perceptron (MLP) classification models are implemented on this problem. Overall correct classification rates have been determined as 92.83%, 88.61%, 93.17%, 90.56% and  for RFC, DT, XGB, SVM and MLP respectively.
+
+NOTE: Accuracy may varry upto 1%.
