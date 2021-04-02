@@ -4,7 +4,7 @@ Medical Image Analysis is a widely used method to screen and diagnose diseases. 
 
 On the other hand, the H&E stains are routinely prepared by technicians who become overwhelmed by the increasing number of samples. Likewise, pathologists are over-worked by the microscopic observation and interpretation, causing overflow that may result in diagnostic error.
 
-##Motivation
+**#Motivation**
 
 A computational grading of slides using learning machine may help to make a pre-screening a hundred or thousand or slides before Human verification.
 
@@ -13,23 +13,23 @@ A computational grading of slides using learning machine may help to make a pre-
 In this project I classified the blood cell subtypes using dataset https://www.kaggle.com/paultimothymooney/blood-cells
 
 
-#White Blood Cells Category
+**#White Blood Cells Category**
 
 
 ![eosinophil](https://user-images.githubusercontent.com/68846906/113439921-17368e80-9409-11eb-8fce-18d8ea96f66a.jpeg)       ![lymphocyte](https://user-images.githubusercontent.com/68846906/113439954-26b5d780-9409-11eb-8b65-e99965ed0830.jpeg)
 
-                 eosinophil                                lymphocyte 
+                 _eosinophil _                             _  lymphocyte_ 
 
 ![monocyte](https://user-images.githubusercontent.com/68846906/113440313-cecba080-9409-11eb-823d-468c8c0e0970.jpeg)          ![neutrophil](https://user-images.githubusercontent.com/68846906/113440416-f884c780-9409-11eb-8ddf-87acb5239b2d.jpeg)
 
-                  monocyte                                  neutrophil
+                  _monocyte_                                  _neutrophil_
 
 
-#Count Plot
+**#Count Plot**
 ![count](https://user-images.githubusercontent.com/68846906/113441111-4c43e080-940b-11eb-811f-b73cacb7ed18.png)
 
 
-#Model Evaluation
+**#Model Evaluation**
 
 
 
@@ -38,7 +38,7 @@ In this project I classified the blood cell subtypes using dataset https://www.k
 ![acc blood](https://user-images.githubusercontent.com/68846906/113441418-ead04180-940b-11eb-99bd-462f3b35d74d.png)      ![loss blood](https://user-images.githubusercontent.com/68846906/113441427-eefc5f00-940b-11eb-9653-866bab74e06b.png)
 
 
-#Confusion Matrix Heatmap
+**#Confusion Matrix Heatmap**
 
 
 
