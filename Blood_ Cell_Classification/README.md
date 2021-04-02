@@ -10,7 +10,8 @@ A computational grading of slides using learning machine may help to make a pre-
 
 #Convolution Neural Network Approach
 
-In this project I classified the blood cell subtypes using **dataset** https://www.kaggle.com/paultimothymooney/blood-cells
+**Dataset**
+In this project I classified the blood cell subtypes using dataset https://www.kaggle.com/paultimothymooney/blood-cells
 
 
 **#White Blood Cells Category**
